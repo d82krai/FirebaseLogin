@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-login-35a63": {
+      "hosting": {
+        "FirebaseAuth": [
+          "fir-login-35a63"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-login-35a63"
+  }
+}
